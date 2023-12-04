@@ -42,11 +42,25 @@ $(document).ready(function () {
         grid += '<br>';
     }
     $('#grid').html(grid);
+    // Define the steps to hover
     var arr1 = [83, 86, 57];
-    var arr2 = [73, 71, 42];
-    var arr3 = [61, 59, 87];
-    var arr4 = [112, 114, 141];
-    var stepsToHover = [arr1, arr2, arr3, arr4, arr3, arr4, arr3, arr4, arr1, arr2, arr1, arr1, arr2, arr3, arr4, arr3, arr2];
+            var arr2 = [73, 71, 42];
+            var arr3 = [61, 59, 87];
+            var arr4 = [112, 114, 141];
+            var arr5 = [73, 71, 102];
+            var arr6 = [116, 118, 87];
+            var arr7 = [170, 172, 141];
+            var arr8 = [131, 128, 102];
+            var arr9 = [116, 118, 148];
+            var arr10 = [170, 172, 202];
+            var arr11 = [160, 158, 187];
+            var arr12 = [174, 177, 148];
+			var stepsToHover = [
+				arr1, arr2, arr3, arr4, arr5, arr6, arr5, arr4, arr3, arr4, arr5, arr6,
+				arr7, arr8, arr7, arr6, arr5, arr6, arr7, arr8, arr9, arr10, arr9, arr8,
+				arr7, arr8, arr9, arr10, arr11, arr12, arr11, arr10, arr9, arr10, arr11,
+				arr12, arr1, arr2, arr1, arr12, arr11, arr12, arr1, arr2, arr3, arr4, arr3, arr2
+			];
     window.currentStep = 0;
     function triggerHover() {
         $('.grid-button').removeClass('darkBlue medBlue lightBlue');
