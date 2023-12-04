@@ -1,0 +1,676 @@
+/* Default color for all buttons */
+.grid-button {
+    background-color: #000000;
+    width: 50px; /* Adjust this value according to your needs */
+}
+
+/* Add classes for each button if you want to change their colors individually */
+/* For example, to change the color of the first button, you can add a class like this: */
+/* Applying the styles to each button individually */
+.grid-button.button-0 {
+    background-color: #000000; /* Change this to the color you want for button 1 */
+}
+.grid-button.button-1 {
+    background-color: #000000; /* Change this to the color you want for button 1 */
+}
+.grid-button.button-2 {
+    background-color: #000000; /* Change this to the color you want for button 2 */
+}
+.grid-button.button-3 {
+    background-color: #000000; /* Change this to the color you want for button 3 */
+}
+.grid-button.button-4 {
+    background-color: #000000; /* Change this to the color you want for button 4 */
+}
+.grid-button.button-5 {
+    background-color: #000000; /* Change this to the color you want for button 5 */
+}
+.grid-button.button-6 {
+    background-color: #000000; /* Change this to the color you want for button 6 */
+}
+.grid-button.button-7 {
+    background-color: #000000; /* Change this to the color you want for button 7 */
+}
+.grid-button.button-8 {
+    background-color: #000000; /* Change this to the color you want for button 8 */
+}
+.grid-button.button-9 {
+    background-color: #000000; /* Change this to the color you want for button 9 */
+}
+.grid-button.button-10 {
+    background-color: #000000; /* Change this to the color you want for button 10 */
+}
+.grid-button.button-11 {
+    background-color: #000000; /* Change this to the color you want for button 11 */
+}
+.grid-button.button-12 {
+    background-color: #000000; /* Change this to the color you want for button 12 */
+}
+.grid-button.button-13 {
+    background-color: #000000; /* Change this to the color you want for button 13 */
+}
+.grid-button.button-14 {
+    background-color: #000000; /* Change this to the color you want for button 14 */
+}
+.grid-button.button-15 {
+    background-color: #000000; /* Change this to the color you want for button 15 */
+}
+.grid-button.button-16 {
+    background-color: #000000; /* Change this to the color you want for button 16 */
+}
+.grid-button.button-17 {
+    background-color: #000000; /* Change this to the color you want for button 17 */
+}
+.grid-button.button-18 {
+    background-color: #000000; /* Change this to the color you want for button 18 */
+}
+.grid-button.button-19 {
+    background-color: #000000; /* Change this to the color you want for button 19 */
+}
+.grid-button.button-20 {
+    background-color: #000000; /* Change this to the color you want for button 20 */
+}
+.grid-button.button-21 {
+    background-color: #000000; /* Change this to the color you want for button 21 */
+}
+.grid-button.button-22 {
+    background-color: #000000; /* Change this to the color you want for button 22 */
+}
+.grid-button.button-23 {
+    background-color: #000000; /* Change this to the color you want for button 23 */
+}
+.grid-button.button-24 {
+    background-color: #000000; /* Change this to the color you want for button 24 */
+}
+.grid-button.button-25 {
+    background-color: #000000; /* Change this to the color you want for button 25 */
+}
+.grid-button.button-26 {
+    background-color: #000000; /* Change this to the color you want for button 26 */
+}
+.grid-button.button-27 {
+    background-color: #000000; /* Change this to the color you want for button 27 */
+}
+.grid-button.button-28 {
+    background-color: #000000; /* Change this to the color you want for button 28 */
+}
+.grid-button.button-29 {
+    background-color: #fafa57; /* Change this to the color you want for button 29 */
+}
+.grid-button.button-30 {
+    background-color: #ba6b11; /* Change this to the color you want for button 30 */
+}
+.grid-button.button-31 {
+    background-color: #ba6b11; /* Change this to the color you want for button 31 */
+}
+.grid-button.button-32 {
+    background-color: #fafa57; /* Change this to the color you want for button 32 */
+}
+.grid-button.button-33 {
+    background-color: #ba6b11; /* Change this to the color you want for button 33 */
+}
+.grid-button.button-34 {
+    background-color: #ba6b11; /* Change this to the color you want for button 34 */
+}
+.grid-button.button-35 {
+    background-color: #ba6b11; /* Change this to the color you want for button 35 */
+}
+.grid-button.button-36 {
+    background-color: #ba6b11; /* Change this to the color you want for button 36 */
+}
+.grid-button.button-37 {
+    background-color: #ba6b11; /* Change this to the color you want for button 37 */
+}
+.grid-button.button-38 {
+    background-color: #000000; /* Change this to the color you want for button 38 */
+}
+.grid-button.button-39 {
+    background-color: #ba6b11; /* Change this to the color you want for button 39 */
+}
+.grid-button.button-40 {
+    background-color: #ba6b11; /* Change this to the color you want for button 40 */
+}
+.grid-button.button-41 {
+    background-color: #ba6b11; /* Change this to the color you want for button 41 */
+}
+.grid-button.button-42 {
+    background-color: #fafa57; /* Change this to the color you want for button 42 */
+}
+.grid-button.button-43 {
+    background-color: #ba6b11; /* Change this to the color you want for button 43 */
+}
+.grid-button.button-44 {
+    background-color: #fafa57; /* Change this to the color you want for button 44 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-45 {
+    background-color: #ba6b11; /* Change this to the color you want for button 45 */
+}
+.grid-button.button-46 {
+    background-color: #ba6b11; /* Change this to the color you want for button 46 */
+}
+.grid-button.button-47 {
+    background-color: #ba6b11; /* Change this to the color you want for button 47 */
+}
+.grid-button.button-48 {
+    background-color: #000000; /* Change this to the color you want for button 48 */
+}
+.grid-button.button-49 {
+    background-color: #ba6b11; /* Change this to the color you want for button 49 */
+}
+.grid-button.button-50 {
+    background-color: #ba6b11; /* Change this to the color you want for button 50 */
+}
+.grid-button.button-51 {
+    background-color: #ba6b11; /* Change this to the color you want for button 51 */
+}
+.grid-button.button-52 {
+    background-color: #ba6b11; /* Change this to the color you want for button 52 */
+}
+.grid-button.button-53 {
+    background-color: #ba6b11; /* Change this to the color you want for button 53 */
+}
+.grid-button.button-54 {
+    background-color: #fafa57; /* Change this to the color you want for button 54 */
+    color: red;
+    font-weight: 900;
+
+}
+.grid-button.button-55 {
+    background-color: #ba6b11; /* Change this to the color you want for button 55 */
+}
+.grid-button.button-56 {
+    background-color: #ba6b11; /* Change this to the color you want for button 56 */
+}
+.grid-button.button-57 {
+    background-color: #fafa57; /* Change this to the color you want for button 57 */
+}
+.grid-button.button-58 {
+    background-color: #ba6b11; /* Change this to the color you want for button 58 */
+}
+.grid-button.button-59 {
+    background-color: #fafa57; /* Change this to the color you want for button 59 */
+}
+.grid-button.button-60 {
+    background-color: #ba6b11; /* Change this to the color you want for button 60 */
+}
+.grid-button.button-61 {
+    background-color: #fafa57; /* Change this to the color you want for button 61 */
+}
+.grid-button.button-62 {
+    background-color: #ba6b11; /* Change this to the color you want for button 62 */
+}
+.grid-button.button-63 {
+    background-color: #ba6b11; /* Change this to the color you want for button 63 */
+}
+.grid-button.button-64 {
+    background-color: #ba6b11; /* Change this to the color you want for button 64 */
+}
+.grid-button.button-65 {
+    background-color: #ba6b11; /* Change this to the color you want for button 65 */
+}
+.grid-button.button-66 {
+    background-color: #ba6b11; /* Change this to the color you want for button 66 */
+}
+.grid-button.button-67 {
+    background-color: #000000; /* Change this to the color you want for button 67 */
+}
+.grid-button.button-68 {
+    background-color: #ba6b11; /* Change this to the color you want for button 68 */
+}
+.grid-button.button-69 {
+    background-color: #ba6b11; /* Change this to the color you want for button 69 */
+}
+.grid-button.button-70 {
+    background-color: #ba6b11; /* Change this to the color you want for button 70 */
+}
+.grid-button.button-71 {
+    background-color: #fafa57; /* Change this to the color you want for button 71 */
+}
+.grid-button.button-72 {
+    background-color: #ba6b11; /* Change this to the color you want for button 72 */
+}
+.grid-button.button-73 {
+    background-color: #fafa57; /* Change this to the color you want for button 73 */
+}
+.grid-button.button-74 {
+    background-color: #ba6b11; /* Change this to the color you want for button 74 */
+}
+.grid-button.button-75 {
+    background-color: #ba6b11; /* Change this to the color you want for button 75 */
+}
+.grid-button.button-76 {
+    background-color: #ba6b11; /* Change this to the color you want for button 76 */
+}
+.grid-button.button-77 {
+    background-color: #000000; /* Change this to the color you want for button 77 */
+}
+.grid-button.button-78 {
+    background-color: #ba6b11; /* Change this to the color you want for button 78 */
+}
+.grid-button.button-79 {
+    background-color: #ba6b11; /* Change this to the color you want for button 79 */
+}
+.grid-button.button-80 {
+    background-color: #ba6b11; /* Change this to the color you want for button 80 */
+}
+.grid-button.button-81 {
+    background-color: #ba6b11; /* Change this to the color you want for button 81 */
+}
+.grid-button.button-82 {
+    background-color: #ba6b11; /* Change this to the color you want for button 82 */
+}
+.grid-button.button-83 {
+    background-color: #fafa57; /* Change this to the color you want for button 83 */
+}
+.grid-button.button-84 {
+    background-color: #ba6b11; /* Change this to the color you want for button 84 */
+}
+.grid-button.button-85 {
+    background-color: #ba6b11; /* Change this to the color you want for button 85 */
+}
+.grid-button.button-86 {
+    background-color: #fafa57; /* Change this to the color you want for button 86 */
+}
+.grid-button.button-87 {
+    background-color: #fafa57; /* Change this to the color you want for button 87 */
+}
+.grid-button.button-88 {
+    background-color: #ba6b11; /* Change this to the color you want for button 88 */
+}
+.grid-button.button-89 {
+    background-color: #fafa57; /* Change this to the color you want for button 89 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-90 {
+    background-color: #ba6b11; /* Change this to the color you want for button 90 */
+}
+.grid-button.button-91 {
+    background-color: #ba6b11; /* Change this to the color you want for button 91 */
+}
+.grid-button.button-92 {
+    background-color: #ba6b11; /* Change this to the color you want for button 92 */
+}
+.grid-button.button-93 {
+    background-color: #ba6b11; /* Change this to the color you want for button 93 */
+}
+.grid-button.button-94 {
+    background-color: #ba6b11; /* Change this to the color you want for button 94 */
+}
+.grid-button.button-95 {
+    background-color: #ba6b11; /* Change this to the color you want for button 95 */
+}
+.grid-button.button-96 {
+    background-color: #000000; /* Change this to the color you want for button 96 */
+}
+.grid-button.button-97 {
+    background-color: #ba6b11; /* Change this to the color you want for button 97 */
+}
+.grid-button.button-98 {
+    background-color: #ba6b11; /* Change this to the color you want for button 98 */
+}
+.grid-button.button-99 {
+    background-color: #fafa57; /* Change this to the color you want for button 99 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-100 {
+    background-color: #ba6b11; /* Change this to the color you want for button 100 */
+}
+.grid-button.button-101 {
+    background-color: #ba6b11; /* Change this to the color you want for button 101 */
+}
+.grid-button.button-102 {
+    background-color: #fafa57; /* Change this to the color you want for button 102 */
+}
+.grid-button.button-103 {
+    background-color: #ba6b11; /* Change this to the color you want for button 103 */
+}
+.grid-button.button-104 {
+    background-color: #ba6b11; /* Change this to the color you want for button 104 */
+}
+.grid-button.button-105 {
+    background-color: #ba6b11; /* Change this to the color you want for button 105 */
+}
+.grid-button.button-106 {
+    background-color: #000000; /* Change this to the color you want for button 106 */
+}
+.grid-button.button-107 {
+    background-color: #ba6b11; /* Change this to the color you want for button 107 */
+}
+.grid-button.button-108 {
+    background-color: #ba6b11; /* Change this to the color you want for button 108 */
+}
+.grid-button.button-109 {
+    background-color: #ba6b11; /* Change this to the color you want for button 109 */
+}
+.grid-button.button-110 {
+    background-color: #ba6b11; /* Change this to the color you want for button 110 */
+}
+.grid-button.button-111 {
+    background-color: #ba6b11; /* Change this to the color you want for button 111 */
+}
+.grid-button.button-112 {
+    background-color: #fafa57; /* Change this to the color you want for button 112 */
+}
+.grid-button.button-113 {
+    background-color: #ba6b11; /* Change this to the color you want for button 113 */
+}
+.grid-button.button-114 {
+    background-color: #fafa57; /* Change this to the color you want for button 114 */
+}
+.grid-button.button-115 {
+    background-color: #ba6b11; /* Change this to the color you want for button 115 */
+}
+.grid-button.button-116 {
+    background-color: #fafa57; /* Change this to the color you want for button 116 */
+}
+.grid-button.button-117 {
+    background-color: #ba6b11; /* Change this to the color you want for button 117 */
+}
+.grid-button.button-118 {
+    background-color: #fafa57; /* Change this to the color you want for button 118 */
+}
+.grid-button.button-119 {
+    background-color: #ba6b11; /* Change this to the color you want for button 119 */
+}
+.grid-button.button-120 {
+    background-color: #ba6b11; /* Change this to the color you want for button 120 */
+}
+.grid-button.button-121 {
+    background-color: #ba6b11; /* Change this to the color you want for button 121 */
+}
+.grid-button.button-122 {
+    background-color: #ba6b11; /* Change this to the color you want for button 122 */
+}
+.grid-button.button-123 {
+    background-color: #ba6b11; /* Change this to the color you want for button 123 */
+}
+.grid-button.button-124 {
+    background-color: #ba6b11; /* Change this to the color you want for button 124 */
+}
+.grid-button.button-125 {
+    background-color: #000000; /* Change this to the color you want for button 125 */
+}
+.grid-button.button-126 {
+    background-color: #ba6b11; /* Change this to the color you want for button 126 */
+}
+.grid-button.button-127 {
+    background-color: #ba6b11; /* Change this to the color you want for button 127 */
+}
+.grid-button.button-128 {
+    background-color: #fafa57; /* Change this to the color you want for button 128 */
+}
+.grid-button.button-129 {
+    background-color: #ba6b11; /* Change this to the color you want for button 129 */
+}
+.grid-button.button-130 {
+    background-color: #ba6b11; /* Change this to the color you want for button 130 */
+}
+.grid-button.button-131 {
+    background-color: #fafa57; /* Change this to the color you want for button 131 */
+}
+.grid-button.button-132 {
+    background-color: #ba6b11; /* Change this to the color you want for button 132 */
+}
+.grid-button.button-133 {
+    background-color: #ba6b11; /* Change this to the color you want for button 133 */
+}
+.grid-button.button-134 {
+    background-color: #ba6b11; /* Change this to the color you want for button 134 */
+}
+.grid-button.button-135 {
+    background-color: #000000; /* Change this to the color you want for button 135 */
+}
+.grid-button.button-136 {
+    background-color: #ba6b11; /* Change this to the color you want for button 136 */
+}
+.grid-button.button-137 {
+    background-color: #ba6b11; /* Change this to the color you want for button 137 */
+}
+.grid-button.button-138 {
+    background-color: #ba6b11; /* Change this to the color you want for button 138 */
+}
+.grid-button.button-139 {
+    background-color: #ba6b11; /* Change this to the color you want for button 139 */
+}
+.grid-button.button-140 {
+    background-color: #ba6b11; /* Change this to the color you want for button 140 */
+}
+.grid-button.button-141 {
+    background-color: #fafa57; /* Change this to the color you want for button 141 */
+}
+.grid-button.button-142 {
+    background-color: #ba6b11; /* Change this to the color you want for button 142 */
+}
+.grid-button.button-143 {
+    background-color: #fafa57; /* Change this to the color you want for button 143 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-144 {
+    background-color: #ba6b11; /* Change this to the color you want for button 144 */
+}
+.grid-button.button-145 {
+    background-color: #fafa57; /* Change this to the color you want for button 145 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-146 {
+    background-color: #ba6b11; /* Change this to the color you want for button 146 */
+}
+.grid-button.button-147 {
+    background-color: #ba6b11; /* Change this to the color you want for button 147 */
+}
+.grid-button.button-148 {
+    background-color: #fafa57; /* Change this to the color you want for button 148 */
+}
+.grid-button.button-149 {
+    background-color: #ba6b11; /* Change this to the color you want for button 149 */
+}
+.grid-button.button-150 {
+    background-color: #ba6b11; /* Change this to the color you want for button 150 */
+}
+.grid-button.button-151 {
+    background-color: #ba6b11; /* Change this to the color you want for button 151 */
+}
+.grid-button.button-152 {
+    background-color: #ba6b11; /* Change this to the color you want for button 152 */
+}
+.grid-button.button-153 {
+    background-color: #ba6b11; /* Change this to the color you want for button 153 */
+}
+.grid-button.button-154 {
+    background-color: #000000; /* Change this to the color you want for button 154 */
+}
+.grid-button.button-155 {
+    background-color: #ba6b11; /* Change this to the color you want for button 155 */
+}
+.grid-button.button-156 {
+    background-color: #ba6b11; /* Change this to the color you want for button 156 */
+}
+.grid-button.button-157 {
+    background-color: #ba6b11; /* Change this to the color you want for button 157 */
+}
+.grid-button.button-158 {
+    background-color: #fafa57; /* Change this to the color you want for button 158 */
+}
+.grid-button.button-159 {
+    background-color: #ba6b11; /* Change this to the color you want for button 159 */
+}
+.grid-button.button-160 {
+    background-color: #fafa57; /* Change this to the color you want for button 160 */
+}
+.grid-button.button-161 {
+    background-color: #ba6b11; /* Change this to the color you want for button 161 */
+}
+.grid-button.button-162 {
+    background-color: #ba6b11; /* Change this to the color you want for button 162 */
+}
+.grid-button.button-163 {
+    background-color: #ba6b11; /* Change this to the color you want for button 163 */
+}
+.grid-button.button-164 {
+    background-color: #000000; /* Change this to the color you want for button 164 */
+}
+.grid-button.button-165 {
+    background-color: #ba6b11; /* Change this to the color you want for button 165 */
+}
+.grid-button.button-166 {
+    background-color: #ba6b11; /* Change this to the color you want for button 166 */
+}
+.grid-button.button-167 {
+    background-color: #ba6b11; /* Change this to the color you want for button 167 */
+}
+.grid-button.button-168 {
+    background-color: #ba6b11; /* Change this to the color you want for button 168 */
+}
+.grid-button.button-169 {
+    background-color: #ba6b11; /* Change this to the color you want for button 169 */
+}
+.grid-button.button-170 {
+    background-color: #fafa57; /* Change this to the color you want for button 170 */
+}
+.grid-button.button-171 {
+    background-color: #ba6b11; /* Change this to the color you want for button 171 */
+}
+.grid-button.button-172 {
+    background-color: #fafa57; /* Change this to the color you want for button 172 */
+}
+.grid-button.button-173 {
+    background-color: #ba6b11; /* Change this to the color you want for button 173 */
+}
+.grid-button.button-174 {
+    background-color: #fafa57; /* Change this to the color you want for button 174 */
+}
+.grid-button.button-175 {
+    background-color: #ba6b11; /* Change this to the color you want for button 175 */
+}
+.grid-button.button-176 {
+    background-color: #ba6b11; /* Change this to the color you want for button 176 */
+}
+.grid-button.button-177 {
+    background-color: #fafa57; /* Change this to the color you want for button 177 */
+}
+.grid-button.button-178 {
+    background-color: #ba6b11; /* Change this to the color you want for button 178 */
+}
+.grid-button.button-179 {
+    background-color: #ba6b11; /* Change this to the color you want for button 179 */
+}
+.grid-button.button-180 {
+    background-color: #ba6b11; /* Change this to the color you want for button 180 */
+}
+.grid-button.button-181 {
+    background-color: #ba6b11; /* Change this to the color you want for button 181 */
+}
+.grid-button.button-182 {
+    background-color: #ba6b11; /* Change this to the color you want for button 182 */
+}
+.grid-button.button-183 {
+    background-color: #000000; /* Change this to the color you want for button 183 */
+}
+.grid-button.button-184 {
+    background-color: #ba6b11; /* Change this to the color you want for button 184 */
+}
+.grid-button.button-185 {
+    background-color: #ba6b11; /* Change this to the color you want for button 185 */
+}
+.grid-button.button-186 {
+    background-color: #ba6b11; /* Change this to the color you want for button 186 */
+}
+.grid-button.button-187 {
+    background-color: #fafa57; /* Change this to the color you want for button 187 */
+}
+.grid-button.button-188 {
+    background-color: #ba6b11; /* Change this to the color you want for button 188 */
+}
+.grid-button.button-189 {
+    background-color: #fafa57; /* Change this to the color you want for button 189 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-190 {
+    background-color: #ba6b11; /* Change this to the color you want for button 190 */
+}
+.grid-button.button-191 {
+    background-color: #ba6b11; /* Change this to the color you want for button 191 */
+}
+.grid-button.button-192 {
+    background-color: #ba6b11; /* Change this to the color you want for button 192 */
+}
+.grid-button.button-193 {
+    background-color: #000000; /* Change this to the color you want for button 193 */
+}
+.grid-button.button-194 {
+    background-color: #ba6b11; /* Change this to the color you want for button 194 */
+}
+.grid-button.button-195 {
+    background-color: #ba6b11; /* Change this to the color you want for button 195 */
+}
+.grid-button.button-196 {
+    background-color: #ba6b11; /* Change this to the color you want for button 196 */
+}
+.grid-button.button-197 {
+    background-color: #ba6b11; /* Change this to the color you want for button 197 */
+}
+.grid-button.button-198 {
+    background-color: #ba6b11; /* Change this to the color you want for button 198 */
+}
+.grid-button.button-199 {
+    background-color: #fafa57; /* Change this to the color you want for button 199 */
+    color: red;
+    font-weight: 900;
+}
+.grid-button.button-200 {
+    background-color: #ba6b11; /* Change this to the color you want for button 200 */
+}
+.grid-button.button-201 {
+    background-color: #ba6b11; /* Change this to the color you want for button 201 */
+}
+.grid-button.button-202 {
+    background-color: #fafa57; /* Change this to the color you want for button 202 */
+}
+.grid-button.button-203 {
+    background-color: #ba6b11; /* Change this to the color you want for button 203 */
+}
+
+
+/* Add a style for the hover effect */
+/* Add a style for the hover effect */
+.darkBlue {
+    background-color: #000080 !important; /* Dark Blue */
+    color: #FFFFFF !important; /* White text */
+}
+
+.medBlue {
+    background-color: #4682B4 !important; /* Medium Blue */
+    color: #FFFFFF !important; /* White text */
+}
+
+.lightBlue {
+    background-color: #B0E0E6 !important; /* Light Blue */
+    color: #000000 !important; /* Black text */
+}
+.center-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex; /* Add this line */
+    flex-wrap: nowrap; /* Add this line to prevent wrapping */
+}
+
+.btn-custom:nth-child(odd) {
+    /* Add your custom button styles here */
+    background-color: #FF7F50; /* Coral */
+    color: white;
+}
+
+.btn-custom:nth-child(even) {
+    /* Add your custom button styles here */
+    background-color: #FFD700; /* Gold */
+    color: #FF7F50;
+}
