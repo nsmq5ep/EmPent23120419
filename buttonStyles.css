@@ -672,5 +672,5 @@
 .btn-custom:nth-child(even) {
     /* Add your custom button styles here */
     background-color: #FFD700; /* Gold */
-    color: #FF7F50;
+    color: rgb(185, 13, 42);
 }
